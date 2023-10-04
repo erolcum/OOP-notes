@@ -7,3 +7,4 @@ new	object	of	a	derived	class	is	created. Call the overloaded base constructor w
 ![Ekran Alıntısı](https://github.com/erolcum/OOP-notes/assets/110387801/47aba4c5-24eb-43ca-846d-3ab6b448987e)<br><br>
 **Program-2 :** Hiding base method and calling base method<br>
 **Program-3 :** Directing	method	calls with **virtual** and **override**. It is an example of Polymorphism<br>
+**Program-4 :** **abstract** class<br>
