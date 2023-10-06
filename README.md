@@ -18,5 +18,6 @@ new	object	of	a	derived	class	is	created. Call the overloaded base constructor w
 5. Abstract class is a partially defined base class. But interface is a contract, it gives 100% abstraction. You don't need to use public in front of a method in an interface, because it is already public.
 6. Abstract class can be written with all abstact methods then it may be seem like an interface. But you can have design issues later in the code.
 7. Abstact class can be derived from an interface. But the opposite is not possible.
-8. 
+8. Both can not be instantiated with new keyword.
+9. You should not use an interface if you need to write the same code for the interface methods. In this case, you should use an abstract class, define the method once, and reuse it as needed. Do use interfaces to decouple your application’s code from specific implementations of it, or to restrict access to members of a certain type.
    
