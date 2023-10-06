@@ -8,3 +8,9 @@ new	object	of	a	derived	class	is	created. Call the overloaded base constructor w
 **Program-2 :** Hiding base method and calling base method<br>
 **Program-3 :** Directing	method	calls with **virtual** and **override**. It is an example of Polymorphism<br>
 **Program-4 :** **abstract** class<br>
+
+# Abstract class VS Interface
+
+1. Abstact class contains both **Declaration & Definition** for methods. Interface contains only **Declaration**. Interface is a contract.
+2. 
+   
